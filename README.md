@@ -1,1 +1,1 @@
-The project uses a simple illustration of airbnb with clones to show listings, reviews and booking models
+The project uses a simple illustration of airbnb with clones to show listings, reviews and booking models.
